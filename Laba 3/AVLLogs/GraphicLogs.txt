@@ -1,0 +1,4 @@
+digraph 28 {
+node [shape = "record", style = "filled", color = "#000800", fillcolor = " #ED96EC"]
+"0" [color = "#000800", fillcolor = red, label = "{NULL}"]
+}
